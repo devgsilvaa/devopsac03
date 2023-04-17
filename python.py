@@ -21,7 +21,7 @@ def exibir_numeros_primos():
 
 
     for p in primos:
-        print(p)
+        print(p,',')
 
 
 
